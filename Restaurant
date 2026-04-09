@@ -1,0 +1,31 @@
+# 🍽️ Restaurant Delivery Application (Java)
+
+This project is a Java-based desktop application developed to simplify restaurant order and delivery management through an organized and user-friendly system.
+
+## Key Features
+- User registration and secure login  
+- Restaurant menu management (meals and drinks)  
+- Order placement and tracking  
+- Payment handling (cash / card)  
+- Customer and employee management  
+- Delivery service based on location  
+
+## Technologies Used
+- Java Programming  
+- Java Swing (GUI)  
+- MySQL Database  
+- JDBC Connectivity  
+- Object-Oriented Programming (OOP)  
+
+## Main Concepts Applied
+- Graphical User Interface design  
+- Database integration  
+- Data validation  
+- Event handling  
+- Modular programming  
+
+## Project Goal
+The main goal of this project is to improve restaurant delivery services by making order processing faster, easier, and more efficient.
+
+## Author
+*Group Project (Zahra Almarzooq)
